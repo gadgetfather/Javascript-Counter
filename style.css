@@ -20,8 +20,13 @@
     width: 600px;
     font-size: 2rem;
 }
+h1{
+    font-size: 5rem;
+    margin-bottom: 3rem;
+}
 
 .kaleen{
+    margin-top: 2rem;
     height: 50vh;
 }
 .day,.hour,.minute,.second{
