@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+}
+.time-format{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    font-size: 2rem;
+}
+
+.kaleen{
+    height: 50vh;
+}
