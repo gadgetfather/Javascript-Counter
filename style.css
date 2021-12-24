@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
 }
 
 .container{
@@ -20,4 +23,10 @@
 
 .kaleen{
     height: 50vh;
+}
+.day,.hour,.minute,.second{
+    text-align: center;
+}
+.time-zome{
+    text-align: center;
 }
